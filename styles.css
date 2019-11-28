@@ -15,7 +15,7 @@ img {
 
 body {
 	background:url(images/paper.png);
-	color:#424242;
+	color:#144467;
 	font-family: 'Source Sans Pro', sans-serif;
 	padding:30px 0;
 }
@@ -81,6 +81,7 @@ header h1 {
 p {
 	line-height:1.4em;
 	margin-bottom:1em;
+	font-size: 1.1em;
 }
 
 ul, ol {
